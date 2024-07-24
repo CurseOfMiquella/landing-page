@@ -2,6 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     background-color: grey;
+    margin: 0;
+    font-family: "Nunito Sans";
 }
 
 .navbar {
@@ -27,6 +29,49 @@ ul {
 }
 
 .heroSection {
+    color: white;
+    background-color: #050608;
+    background-image: url(images/HeroImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 48px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.heroContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 700px;
+}
+
+.heroButton {
+    padding: 10px 25px 10px 25px;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 0;
+    background-color: #25283D;
+    color: white;
+}
+
+.text {
+    padding: 10px;
+    text-align: justify;
+    max-width: 580px;
+}
+
+h1, h2 {
+    font-family: "Jost";
+    font-weight: 300;
+    letter-spacing: 0.1ch;
+    padding: 10px;
+    margin: 0
+}
+
+.header h1 {
+    font-size: 50px
 }
 
 a {
