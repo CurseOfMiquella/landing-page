@@ -6,10 +6,27 @@ body {
 
 .navbar {
     display: flex;
+    align-items: center;
+    padding: 15px
+}
+
+.logo {
+    height: 30px
+}
+
+nav {
+    margin-left: auto;
 }
 
 ul {
+    font-family: "Nunito Sans";
+    font-weight: 200;
     display: flex;
     list-style-type: none;
-    
+    gap: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
