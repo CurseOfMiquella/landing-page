@@ -3,3 +3,13 @@ body {
     flex-direction: column;
     background-color: grey;
 }
+
+.navbar {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    
+}
