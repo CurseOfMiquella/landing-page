@@ -57,6 +57,12 @@ ul {
     color: white;
 }
 
+.services {
+    border: solid greenyellow;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .service-img {
     width: 200px;
     height: 200px;
@@ -76,6 +82,9 @@ ul {
     padding: 10px;
     text-align: justify;
     max-width: 580px;
+}
+
+.info-container .text {
     text-align: center;
 }
 
@@ -89,6 +98,12 @@ h1, h2 {
 
 .header h1 {
     font-size: 50px
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
 }
 
 a {
