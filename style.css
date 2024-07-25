@@ -69,12 +69,14 @@ ul {
 
 .info {
     display: block;
+    text-align: center;
 }
 
 .text {
     padding: 10px;
     text-align: justify;
     max-width: 580px;
+    text-align: center;
 }
 
 h1, h2 {
