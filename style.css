@@ -57,10 +57,10 @@ ul {
 }
 
 .services {
-    border: solid greenyellow;
+    /* border: solid greenyellow; */
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: #333B57;
+    background-color: #020204;
 }
 
 .service-img {
@@ -88,7 +88,8 @@ ul {
 
 .info-container .text {
     text-align: center;
-    width: 300px 
+    width: 300px;
+    font-size: 20px;
 }
 
 h1, h2 {
