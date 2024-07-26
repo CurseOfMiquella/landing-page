@@ -104,8 +104,11 @@ ul {
 
 .testimonials .text {
     font-size: 50px;
+    font-weight: 200;
+    font-style: italic;
     text-align: left;
-    width: 900px
+    width: 900px;
+    line-height: 95%;
 
 }
 
