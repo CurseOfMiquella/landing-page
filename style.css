@@ -32,9 +32,9 @@ ul {
 .heroSection {
     background-color: #020204;
     background-image: url(images/heroimagesmall.jpeg);
-    background-position: center right 100px;
+    background-position: center right 200px;
     background-repeat: no-repeat;
-    padding-left: 100px;
+    padding-left: 200px;
     padding-top: 200px;
     padding-bottom: 200px;
 }
