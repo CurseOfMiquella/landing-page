@@ -79,6 +79,7 @@ ul {
 .info {
     display: block;
     text-align: center;
+    margin: 40px 0
 }
 
 .text {
@@ -100,8 +101,10 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 50px;
-    padding-bottom: 50px
+    padding-top: 90px;
+    padding-bottom: 90px;
+    /* margin: 40px 0; */
+    background-color: #25283D;
 }
 
 .testimonials .text {
@@ -109,12 +112,16 @@ ul {
     font-weight: 200;
     font-style: italic;
     text-align: left;
-    width: 900px;
+    width: 890px;
     line-height: 95%;
 }
 
 .name {
     text-align: right;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+    width: 880px
 }
 
 h1, h2 {
