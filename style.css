@@ -84,6 +84,9 @@ ul {
 .text {
     padding: 10px;
     text-align: justify;
+}
+
+.hero-container .text {
     max-width: 580px;
 }
 
@@ -101,6 +104,8 @@ ul {
 
 .testimonials .text {
     font-size: 50px;
+    text-align: left;
+    width: 900px
 
 }
 
