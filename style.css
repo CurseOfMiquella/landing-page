@@ -136,6 +136,8 @@ ul {
     background-color: #25283D;
     border-radius: 15px;
     padding: 50px;
+    max-width: 800px;
+    margin: auto;
 }
 
 .icon {
