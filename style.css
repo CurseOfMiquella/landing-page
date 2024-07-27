@@ -103,7 +103,6 @@ ul {
     align-items: center;
     padding-top: 90px;
     padding-bottom: 90px;
-    /* margin: 40px 0; */
     background-color: #25283D;
 }
 
@@ -128,6 +127,7 @@ ul {
     display: flex;
     gap: 10px;
     font-size: 30px;
+    padding: 90px
 }
 
 .icon {
