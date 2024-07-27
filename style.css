@@ -124,10 +124,18 @@ ul {
 }
 
 .CTA {
+    font-size: 30px;
+    padding: 90px;
+    background-color: #020204;
+}
+
+.CTA-container {
     display: flex;
     gap: 10px;
-    font-size: 30px;
-    padding: 90px
+    justify-content: center;
+    background-color: #25283D;
+    border-radius: 15px;
+    padding: 50px;
 }
 
 .icon {
